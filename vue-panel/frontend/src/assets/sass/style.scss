@@ -1,0 +1,23 @@
+@import 'style/variables';
+@import 'style/mixins';
+
+// Core CSS
+@import 'style/pagination';
+@import 'style/typography';
+@import 'style/misc';
+@import 'style/info-areas';
+
+// components
+@import 'style/navbar';
+@import 'style/images';
+@import 'style/tables';
+@import 'style/sidebar-and-main-panel';
+@import 'style/cards';
+@import 'style/footers';
+
+
+// element-ui plugins
+@import "style/element-ui-plugins/tables";
+
+
+@import 'style/responsive';
